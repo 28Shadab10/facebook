@@ -1,0 +1,84 @@
+h1 {
+  font-size: 80px;
+  color: rgb(31, 113, 244);
+}
+.main {
+  display: flex;
+  padding: 250px 250px 250px 250px;
+  background-color: aliceblue;
+}
+h3 {
+  padding-right: 20px;
+}
+.f2 {
+  padding-left: 250px;
+}
+.form {
+  padding: 10px 10px 10px 10px;
+  border: 2px solid;
+  border-radius: 5px;
+
+  border-color: white;
+  background-color: white;
+  border-width: 5px;
+}
+p {
+  font-size:19px;
+
+}
+h6 {
+  font-size: 15px;
+  color: rgb(31, 113, 244);
+  margin: 20px 30px 20px 120px;
+}
+h6:hover{
+    text-decoration: underline;
+}
+button1 {
+  background-color: rgb(31, 113, 244);
+  border: none;
+  color: white;
+  padding: 15px 142px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 8px;
+  margin: 20px 20px 10px 20px;
+}
+button1:hover{
+    background-color: rgb(57, 141, 225);
+    color: black;
+    
+}
+button2 {
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 80px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 8px;
+  margin: 20px 30px 20px 40px;
+
+}
+button2:hover{
+    background-color: #2fe725;
+    color: black;
+}
+#uName{
+    padding: 15px 100px;
+    border-radius: 8%;
+    width: 45%;
+
+
+}
+#password{
+    margin-top: 20px;
+    padding: 15px 100px;
+    border-radius: 8%;
+    width: 45%;
+}
+
